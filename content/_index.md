@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: true
 
 # GLP compliant Pathology services.
 
-## Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+## We provide pathology consulting services compliant to FDA GLP.
