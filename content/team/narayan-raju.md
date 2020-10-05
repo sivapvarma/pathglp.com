@@ -3,7 +3,6 @@ title: "Narayana Raju"
 jobtitle: "BSc DVM MVS PhD DACVP"
 image: images/NarayanRaju.png
 date: 2020-09-29T23:08:49-07:00
-draft: true
 promoted: true
 weight: 1
 ---
