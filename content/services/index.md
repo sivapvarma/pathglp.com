@@ -10,6 +10,6 @@ intro_image_hide_on_mobile: true
 -  Necropsy.
 -  Histopathology.
 -  Immunohistology.
--  Scaning and Transmission Electromicroscopy.
+-  Scaning and Transmission Electronmicroscopy.
 -  Photomicroscopy.
 -  Slide Scaning.
