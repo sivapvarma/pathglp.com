@@ -6,11 +6,11 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
--  Experimental Pathaology.
--  Nercropsy.
+-  Experimental Pathology.
+-  Necropsy.
 -  Histopathology.
 -  Immunohistology.
--  Scalling and Transmission.
+-  Scaling and Transmission.
 -  Electromicroscopy.
 -  Photomicroscopy.
--  Slide scannig.
+-  Slide scaning.
