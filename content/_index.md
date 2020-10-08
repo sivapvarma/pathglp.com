@@ -5,6 +5,4 @@ intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for 
 intro_image_hide_on_mobile: true
 ---
 
-# GLP compliant Pathology services.
-
-## We provide pathology consulting services compliant to FDA GLP.
+# Experimental Pathology services with GLP compliance.

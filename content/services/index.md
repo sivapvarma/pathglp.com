@@ -5,11 +5,9 @@ intro_image: images/pathology.jpg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
-
--  Experimental Pathology
--  Necropsy
--  Histopathology
--  Immunohistology
--  Scanning and Transmission Electron Microscopy
--  Photomicroscopy
--  Slide Scanning
+> - ## Necropsy
+> - ## Histopathology
+> - ## Immunohistology
+> - ## Slide Scanning
+> - ## Photomicroscopy
+> - ## Scanning & Transmission Electron Microscopy
